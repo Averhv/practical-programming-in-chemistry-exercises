@@ -22,10 +22,10 @@ Below is a table linking to the exercise folders for each week. Navigate to the 
 | 04 | Numerical operations, data handling, data visualization: `numpy`, `pandas`, `matplotlib` | [Week 04](week_04) |
 | 05 | `RDKit` (part I): Reading/Writing, Descriptors, Fingerprints | [Week 05](week_05) |
 | 06 | `RDKit` (part II): Substructure matching, Conformer generation | [Week 06](week_06) |
-| 07 |  | Week 07 |
-| 08 |  | Week 08 |
-| 09 | | Week 09 |
-| 10 |  | Week 10 |
+| 07 | Making a Python package | [Week 07](week_07) |
+| 08 | Data Acquisition and Cleaning, Web APIs | [Week 08](week_08) |
+| 09 | More packaging; project templates, code testing and coverage. | [Week 09](week_09) |
+| 10 | Visualization and analysis of chemical data (clustering) | [Week 10](week_10) |
 | 11 |  | Week 11 |
 | 12 |  | Week 12 |
 
